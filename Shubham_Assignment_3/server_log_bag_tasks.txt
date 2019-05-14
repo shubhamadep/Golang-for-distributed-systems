@@ -1,0 +1,199 @@
+Thread :  1  is searching the word :  enough
+
+Thread :  2  is searching the word :  plain
+
+Thread :  3  is searching the word :  girl
+
+Thread :  4  is searching the word :  usual
+
+Thread :  5  is searching the word :  young
+
+Thread :  6  is searching the word :  ready
+
+Thread :  7  is searching the word :  above
+
+Thread :  8  is searching the word :  ever
+
+Thread :  9  is searching the word :  red
+
+Thread :  10  is searching the word :  list
+
+Thread :  11  is searching the word :  though
+
+Thread :  12  is searching the word :  feel
+
+Thread :  13  is searching the word :  talk
+
+Thread :  14  is searching the word :  bird
+
+Thread :  15  is searching the word :  soon
+
+Thread :  16  is searching the word :  body
+
+Thread :  17  is searching the word :  dog
+
+Thread :  18  is searching the word :  family
+
+Thread :  19  is searching the word :  direct
+
+Thread :  20  is searching the word :  pose
+
+Thread :  21  is searching the word :  leave
+
+Thread :  22  is searching the word :  song
+
+Thread :  23  is searching the word :  measure
+
+Thread :  24  is searching the word :  door
+
+Thread :  25  is searching the word :  product
+
+Thread :  26  is searching the word :  black
+
+Thread :  27  is searching the word :  short
+
+Thread :  28  is searching the word :  numeral
+
+Thread :  29  is searching the word :  class
+
+Thread :  30  is searching the word :  wind
+
+Thread :  31  is searching the word :  question
+
+Thread :  33  is searching the word :  complete
+
+Thread :  32  is searching the word :  happen
+
+Thread :  34  is searching the word :  ship
+
+Thread :  35  is searching the word :  area
+
+Thread :  36  is searching the word :  half
+
+Thread :  37  is searching the word :  rock
+
+Thread :  38  is searching the word :  order
+
+Thread :  39  is searching the word :  fire
+
+Thread :  40  is searching the word :  south
+
+Thread :  41  is searching the word :  problem
+
+Thread :  42  is searching the word :  piece
+
+Thread :  43  is searching the word :  told
+
+Thread :  44  is searching the word :  knew
+
+Thread :  45  is searching the word :  pass
+
+Thread :  46  is searching the word :  since
+
+Thread :  47  is searching the word :  top
+
+Thread :  48  is searching the word :  whole
+
+Thread :  49  is searching the word :  king
+
+Thread :  50  is searching the word :  space
+
+Thread :  51  is searching the word :  heard
+
+Thread :  52  is searching the word :  best
+
+Thread :  53  is searching the word :  hour
+
+Thread :  54  is searching the word :  better
+
+Thread :  55  is searching the word :  true
+
+Thread :  56  is searching the word :  during
+
+Thread :  57  is searching the word :  hundred
+
+Thread :  58  is searching the word :  five
+
+Thread :  59  is searching the word :  remember
+
+Thread :  60  is searching the word :  step
+
+Thread :  61  is searching the word :  early
+
+Thread :  62  is searching the word :  hold
+
+Thread :  63  is searching the word :  west
+
+Thread :  64  is searching the word :  ground
+
+Thread :  65  is searching the word :  interest
+
+Thread :  66  is searching the word :  reach
+
+Thread :  67  is searching the word :  fast
+
+Thread :  68  is searching the word :  verb
+
+Thread :  69  is searching the word :  sing
+
+Thread :  70  is searching the word :  listen
+
+Thread :  71  is searching the word :  six
+
+Thread :  72  is searching the word :  table
+
+Thread :  73  is searching the word :  travel
+
+Thread :  74  is searching the word :  less
+
+Thread :  75  is searching the word :  morning
+
+Thread :  76  is searching the word :  ten
+
+Thread :  77  is searching the word :  simple
+
+Thread :  78  is searching the word :  several
+
+Thread :  79  is searching the word :  vowel
+
+Thread :  80  is searching the word :  toward
+
+Thread :  81  is searching the word :  war
+
+Thread :  82  is searching the word :  lay
+
+Thread :  83  is searching the word :  against
+
+Thread :  84  is searching the word :  pattern
+
+Thread :  85  is searching the word :  slow
+
+Thread :  86  is searching the word :  center
+
+Thread :  87  is searching the word :  love
+
+Thread :  88  is searching the word :  person
+
+Thread :  89  is searching the word :  money
+
+Thread :  90  is searching the word :  serve
+
+Thread :  91  is searching the word :  appear
+
+Thread :  92  is searching the word :  road
+
+Thread :  93  is searching the word :  map
+
+Thread :  94  is searching the word :  rain
+
+Thread :  95  is searching the word :  rule
+
+Thread :  96  is searching the word :  govern
+
+Thread :  97  is searching the word :  pull
+
+Thread :  98  is searching the word :  cold
+
+Thread :  99  is searching the word :  notice
+
+Thread :  100  is searching the word :  voice

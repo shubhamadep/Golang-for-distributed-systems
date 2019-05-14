@@ -1,0 +1,500 @@
+Dictionary is ready.
+waiting for semaphone. Thread : 1
+Changing dictionary. Thread : 1
+Releasing semaphore. Thread : 1
+waiting for semaphone. Thread : 2
+Changing dictionary. Thread : 2
+Releasing semaphore. Thread : 2
+Thread :  1  is searching the word :  enough
+
+waiting for semaphone. Thread : 3
+Changing dictionary. Thread : 3
+Releasing semaphore. Thread : 3
+Thread :  2  is searching the word :  plain
+
+waiting for semaphone. Thread : 4
+Changing dictionary. Thread : 4
+Releasing semaphore. Thread : 4
+Thread :  3  is searching the word :  girl
+
+waiting for semaphone. Thread : 5
+Changing dictionary. Thread : 5
+Releasing semaphore. Thread : 5
+Thread :  4  is searching the word :  usual
+
+waiting for semaphone. Thread : 6
+Changing dictionary. Thread : 6
+Thread :  5  is searching the word :  young
+
+Releasing semaphore. Thread : 6
+waiting for semaphone. Thread : 7
+Changing dictionary. Thread : 7
+Thread :  7  is searching the word :  above
+
+Releasing semaphore. Thread : 8
+Thread :  6  is searching the word :  ready
+
+waiting for semaphone. Thread : 8
+Changing dictionary. Thread : 8
+Releasing semaphore. Thread : 8
+waiting for semaphone. Thread : 9
+Changing dictionary. Thread : 9
+Releasing semaphore. Thread : 9
+Thread :  8  is searching the word :  ever
+
+waiting for semaphone. Thread : 10
+Changing dictionary. Thread : 10
+Releasing semaphore. Thread : 10
+Thread :  9  is searching the word :  red
+
+waiting for semaphone. Thread : 11
+Changing dictionary. Thread : 11
+Releasing semaphore. Thread : 11
+Thread :  10  is searching the word :  list
+
+waiting for semaphone. Thread : 12
+Changing dictionary. Thread : 12
+Releasing semaphore. Thread : 12
+Thread :  11  is searching the word :  though
+
+waiting for semaphone. Thread : 13
+Changing dictionary. Thread : 13
+Releasing semaphore. Thread : 13
+Thread :  12  is searching the word :  feel
+
+waiting for semaphone. Thread : 14
+Changing dictionary. Thread : 14
+Thread :  13  is searching the word :  talk
+
+Releasing semaphore. Thread : 14
+waiting for semaphone. Thread : 15
+Changing dictionary. Thread : 15
+Releasing semaphore. Thread : 15
+Thread :  14  is searching the word :  bird
+
+waiting for semaphone. Thread : 16
+Changing dictionary. Thread : 16
+Releasing semaphore. Thread : 16
+Thread :  15  is searching the word :  soon
+
+Thread :  16  is searching the word :  body
+
+waiting for semaphone. Thread : 17
+Changing dictionary. Thread : 17
+Releasing semaphore. Thread : 17
+waiting for semaphone. Thread : 18
+Changing dictionary. Thread : 18
+Releasing semaphore. Thread : 18
+Thread :  17  is searching the word :  dog
+
+waiting for semaphone. Thread : 19
+Changing dictionary. Thread : 19
+Releasing semaphore. Thread : 19
+Thread :  18  is searching the word :  family
+
+waiting for semaphone. Thread : 20
+Changing dictionary. Thread : 20
+Releasing semaphore. Thread : 20
+Thread :  19  is searching the word :  direct
+
+waiting for semaphone. Thread : 21
+Changing dictionary. Thread : 21
+Thread :  20  is searching the word :  pose
+
+Releasing semaphore. Thread : 21
+waiting for semaphone. Thread : 22
+Thread :  21  is searching the word :  leave
+
+Changing dictionary. Thread : 22
+Releasing semaphore. Thread : 22
+waiting for semaphone. Thread : 23
+Thread :  22  is searching the word :  song
+
+Changing dictionary. Thread : 23
+Releasing semaphore. Thread : 23
+waiting for semaphone. Thread : 24
+Changing dictionary. Thread : 24
+Releasing semaphore. Thread : 24
+Thread :  23  is searching the word :  measure
+
+waiting for semaphone. Thread : 25
+Changing dictionary. Thread : 25
+Releasing semaphore. Thread : 25
+Thread :  24  is searching the word :  door
+
+waiting for semaphone. Thread : 26
+Changing dictionary. Thread : 26
+Thread :  25  is searching the word :  product
+
+Releasing semaphore. Thread : 26
+waiting for semaphone. Thread : 27
+Changing dictionary. Thread : 27
+Thread :  26  is searching the word :  black
+
+Releasing semaphore. Thread : 27
+waiting for semaphone. Thread : 28
+Changing dictionary. Thread : 28
+Releasing semaphore. Thread : 28
+Thread :  27  is searching the word :  short
+
+waiting for semaphone. Thread : 29
+Changing dictionary. Thread : 29
+Thread :  28  is searching the word :  numeral
+
+Releasing semaphore. Thread : 29
+waiting for semaphone. Thread : 30
+Changing dictionary. Thread : 30
+Releasing semaphore. Thread : 30
+Thread :  29  is searching the word :  class
+
+waiting for semaphone. Thread : 31
+Changing dictionary. Thread : 31
+Releasing semaphore. Thread : 31
+Thread :  30  is searching the word :  wind
+
+waiting for semaphone. Thread : 32
+Changing dictionary. Thread : 32
+Thread :  31  is searching the word :  question
+
+Releasing semaphore. Thread : 32
+waiting for semaphone. Thread : 33
+Changing dictionary. Thread : 33
+Thread :  32  is searching the word :  happen
+
+Releasing semaphore. Thread : 33
+waiting for semaphone. Thread : 34
+Changing dictionary. Thread : 34
+Thread :  33  is searching the word :  complete
+
+Releasing semaphore. Thread : 34
+waiting for semaphone. Thread : 35
+Thread :  34  is searching the word :  ship
+
+Changing dictionary. Thread : 35
+Releasing semaphore. Thread : 35
+waiting for semaphone. Thread : 36
+Changing dictionary. Thread : 36
+Releasing semaphore. Thread : 36
+Thread :  35  is searching the word :  area
+
+waiting for semaphone. Thread : 37
+Thread :  36  is searching the word :  half
+
+Changing dictionary. Thread : 37
+Releasing semaphore. Thread : 37
+waiting for semaphone. Thread : 38
+Changing dictionary. Thread : 38
+Releasing semaphore. Thread : 38
+Thread :  37  is searching the word :  rock
+
+Thread :  38  is searching the word :  order
+
+waiting for semaphone. Thread : 39
+Changing dictionary. Thread : 39
+Releasing semaphore. Thread : 39
+waiting for semaphone. Thread : 40
+Thread :  39  is searching the word :  fire
+
+Changing dictionary. Thread : 40
+Releasing semaphore. Thread : 41
+waiting for semaphone. Thread : 41
+Changing dictionary. Thread : 41
+Releasing semaphore. Thread : 41
+Thread :  40  is searching the word :  south
+
+waiting for semaphone. Thread : 42
+Changing dictionary. Thread : 42
+Thread :  41  is searching the word :  problem
+
+Releasing semaphore. Thread : 42
+waiting for semaphone. Thread : 43
+Changing dictionary. Thread : 43
+Thread :  42  is searching the word :  piece
+
+Releasing semaphore. Thread : 43
+waiting for semaphone. Thread : 44
+Thread :  43  is searching the word :  told
+
+Changing dictionary. Thread : 44
+Releasing semaphore. Thread : 44
+waiting for semaphone. Thread : 45
+Changing dictionary. Thread : 45
+Thread :  44  is searching the word :  knew
+
+Releasing semaphore. Thread : 45
+waiting for semaphone. Thread : 46
+Changing dictionary. Thread : 46
+Thread :  45  is searching the word :  pass
+
+Releasing semaphore. Thread : 46
+waiting for semaphone. Thread : 47
+Thread :  46  is searching the word :  since
+
+Changing dictionary. Thread : 47
+Releasing semaphore. Thread : 47
+waiting for semaphone. Thread : 48
+Changing dictionary. Thread : 48
+Releasing semaphore. Thread : 48
+Thread :  47  is searching the word :  top
+
+waiting for semaphone. Thread : 49
+Thread :  48  is searching the word :  whole
+
+Changing dictionary. Thread : 49
+Releasing semaphore. Thread : 49
+waiting for semaphone. Thread : 50
+Changing dictionary. Thread : 50
+Thread :  49  is searching the word :  king
+
+Releasing semaphore. Thread : 50
+waiting for semaphone. Thread : 51
+Changing dictionary. Thread : 51
+Releasing semaphore. Thread : 51
+Thread :  50  is searching the word :  space
+
+Thread :  51  is searching the word :  heard
+
+waiting for semaphone. Thread : 52
+Changing dictionary. Thread : 52
+Releasing semaphore. Thread : 52
+waiting for semaphone. Thread : 53
+Changing dictionary. Thread : 53
+Releasing semaphore. Thread : 53
+Thread :  52  is searching the word :  best
+
+waiting for semaphone. Thread : 54
+Changing dictionary. Thread : 54
+Thread :  53  is searching the word :  hour
+
+Releasing semaphore. Thread : 54
+waiting for semaphone. Thread : 55
+Changing dictionary. Thread : 55
+Thread :  54  is searching the word :  better
+
+Releasing semaphore. Thread : 55
+Thread :  55  is searching the word :  true
+
+waiting for semaphone. Thread : 56
+Changing dictionary. Thread : 56
+Releasing semaphore. Thread : 56
+waiting for semaphone. Thread : 57
+Changing dictionary. Thread : 57
+Releasing semaphore. Thread : 57
+Thread :  56  is searching the word :  during
+
+waiting for semaphone. Thread : 58
+Changing dictionary. Thread : 58
+Releasing semaphore. Thread : 58
+Thread :  57  is searching the word :  hundred
+
+waiting for semaphone. Thread : 59
+Changing dictionary. Thread : 59
+Releasing semaphore. Thread : 59
+Thread :  58  is searching the word :  five
+
+waiting for semaphone. Thread : 60
+Changing dictionary. Thread : 60
+Releasing semaphore. Thread : 60
+Thread :  59  is searching the word :  remember
+
+waiting for semaphone. Thread : 61
+Changing dictionary. Thread : 61
+Releasing semaphore. Thread : 61
+Thread :  60  is searching the word :  step
+
+waiting for semaphone. Thread : 62
+Changing dictionary. Thread : 62
+Releasing semaphore. Thread : 62
+Thread :  61  is searching the word :  early
+
+waiting for semaphone. Thread : 63
+Changing dictionary. Thread : 63
+Releasing semaphore. Thread : 63
+Thread :  62  is searching the word :  hold
+
+waiting for semaphone. Thread : 64
+Changing dictionary. Thread : 64
+Thread :  63  is searching the word :  west
+
+Releasing semaphore. Thread : 64
+waiting for semaphone. Thread : 65
+Changing dictionary. Thread : 65
+Thread :  64  is searching the word :  ground
+
+Releasing semaphore. Thread : 65
+waiting for semaphone. Thread : 66
+Thread :  65  is searching the word :  interest
+
+Changing dictionary. Thread : 66
+Releasing semaphore. Thread : 66
+waiting for semaphone. Thread : 67
+Changing dictionary. Thread : 67
+Thread :  66  is searching the word :  reach
+
+Releasing semaphore. Thread : 67
+Thread :  67  is searching the word :  fast
+
+waiting for semaphone. Thread : 68
+Changing dictionary. Thread : 68
+Releasing semaphore. Thread : 68
+Thread :  68  is searching the word :  verb
+
+waiting for semaphone. Thread : 69
+Changing dictionary. Thread : 69
+Releasing semaphore. Thread : 69
+waiting for semaphone. Thread : 70
+Changing dictionary. Thread : 70
+Releasing semaphore. Thread : 70
+Thread :  69  is searching the word :  sing
+
+Thread :  70  is searching the word :  listen
+
+waiting for semaphone. Thread : 71
+Changing dictionary. Thread : 71
+Releasing semaphore. Thread : 72
+waiting for semaphone. Thread : 72
+Changing dictionary. Thread : 72
+Thread :  71  is searching the word :  six
+
+Releasing semaphore. Thread : 72
+waiting for semaphone. Thread : 73
+Thread :  72  is searching the word :  table
+
+Changing dictionary. Thread : 73
+Releasing semaphore. Thread : 73
+waiting for semaphone. Thread : 74
+Changing dictionary. Thread : 74
+Thread :  73  is searching the word :  travel
+
+Releasing semaphore. Thread : 74
+waiting for semaphone. Thread : 75
+Changing dictionary. Thread : 75
+Releasing semaphore. Thread : 75
+Thread :  74  is searching the word :  less
+
+waiting for semaphone. Thread : 76
+Changing dictionary. Thread : 76
+Releasing semaphore. Thread : 76
+Thread :  75  is searching the word :  morning
+
+waiting for semaphone. Thread : 77
+Changing dictionary. Thread : 77
+Releasing semaphore. Thread : 77
+Thread :  76  is searching the word :  ten
+
+Thread :  77  is searching the word :  simple
+
+waiting for semaphone. Thread : 78
+Changing dictionary. Thread : 78
+Releasing semaphore. Thread : 78
+waiting for semaphone. Thread : 79
+Changing dictionary. Thread : 79
+Releasing semaphore. Thread : 79
+Thread :  78  is searching the word :  several
+
+Thread :  79  is searching the word :  vowel
+
+waiting for semaphone. Thread : 80
+Changing dictionary. Thread : 80
+Releasing semaphore. Thread : 80
+waiting for semaphone. Thread : 81
+Changing dictionary. Thread : 81
+Releasing semaphore. Thread : 81
+Thread :  80  is searching the word :  toward
+
+waiting for semaphone. Thread : 82
+Changing dictionary. Thread : 82
+Thread :  81  is searching the word :  war
+
+Releasing semaphore. Thread : 82
+waiting for semaphone. Thread : 83
+Thread :  82  is searching the word :  lay
+
+Changing dictionary. Thread : 83
+Releasing semaphore. Thread : 83
+waiting for semaphone. Thread : 84
+Changing dictionary. Thread : 84
+Releasing semaphore. Thread : 84
+Thread :  83  is searching the word :  against
+
+waiting for semaphone. Thread : 85
+Changing dictionary. Thread : 85
+Thread :  84  is searching the word :  pattern
+
+Releasing semaphore. Thread : 85
+waiting for semaphone. Thread : 86
+Changing dictionary. Thread : 86
+Releasing semaphore. Thread : 86
+Thread :  85  is searching the word :  slow
+
+waiting for semaphone. Thread : 87
+Changing dictionary. Thread : 87
+Releasing semaphore. Thread : 87
+Thread :  86  is searching the word :  center
+
+waiting for semaphone. Thread : 88
+Changing dictionary. Thread : 88
+Thread :  87  is searching the word :  love
+
+Releasing semaphore. Thread : 88
+waiting for semaphone. Thread : 89
+Changing dictionary. Thread : 89
+Thread :  88  is searching the word :  person
+
+Releasing semaphore. Thread : 89
+waiting for semaphone. Thread : 90
+Changing dictionary. Thread : 90
+Releasing semaphore. Thread : 90
+Thread :  89  is searching the word :  money
+
+waiting for semaphone. Thread : 91
+Changing dictionary. Thread : 91
+Releasing semaphore. Thread : 91
+Thread :  90  is searching the word :  serve
+
+waiting for semaphone. Thread : 92
+Changing dictionary. Thread : 92
+Releasing semaphore. Thread : 92
+Thread :  91  is searching the word :  appear
+
+waiting for semaphone. Thread : 93
+Changing dictionary. Thread : 93
+Thread :  92  is searching the word :  road
+
+Releasing semaphore. Thread : 93
+Thread :  93  is searching the word :  map
+
+waiting for semaphone. Thread : 94
+Changing dictionary. Thread : 94
+Releasing semaphore. Thread : 94
+waiting for semaphone. Thread : 95
+Changing dictionary. Thread : 95
+Thread :  94  is searching the word :  rain
+
+Releasing semaphore. Thread : 95
+waiting for semaphone. Thread : 96
+Changing dictionary. Thread : 96
+Thread :  95  is searching the word :  rule
+
+Releasing semaphore. Thread : 96
+waiting for semaphone. Thread : 97
+Changing dictionary. Thread : 97
+Thread :  96  is searching the word :  govern
+
+Releasing semaphore. Thread : 97
+waiting for semaphone. Thread : 98
+Changing dictionary. Thread : 98
+Thread :  97  is searching the word :  pull
+
+Releasing semaphore. Thread : 98
+waiting for semaphone. Thread : 99
+Changing dictionary. Thread : 99
+Releasing semaphore. Thread : 99
+Thread :  98  is searching the word :  cold
+
+waiting for semaphone. Thread : 100
+Thread :  99  is searching the word :  notice
+
+Changing dictionary. Thread : 100
+Releasing semaphore. Thread : 100
+Thread :  100  is searching the word :  voice

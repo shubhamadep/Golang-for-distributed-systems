@@ -1,0 +1,400 @@
+Goroutine :  1  handling connection for word :  enough
+
+Goroutine :  2  getting meaning for word :  enough
+Goroutine :  3  handling connection for word :  plain
+
+Goroutine :  4  getting meaning for word :  plain
+Goroutine :  3  sending result to the client :  &{{0xc420c8c300}}
+Goroutine :  6  sending result to the client :  &{{0xc420ca4000}}
+Goroutine :  7  handling connection for word :  girl
+
+Goroutine :  8  getting meaning for word :  girl
+Goroutine :  9  sending result to the client :  &{{0xc420cc8000}}
+Goroutine :  10  handling connection for word :  usual
+
+Goroutine :  11  getting meaning for word :  usual
+Goroutine :  12  sending result to the client :  &{{0xc420c8c380}}
+Goroutine :  13  handling connection for word :  young
+
+Goroutine :  14  getting meaning for word :  young
+Goroutine :  15  sending result to the client :  &{{0xc420cc8080}}
+Goroutine :  15  handling connection for word :  ready
+
+Goroutine :  17  getting meaning for word :  ready
+Goroutine :  18  sending result to the client :  &{{0xc420ca4080}}
+Goroutine :  19  handling connection for word :  above
+
+Goroutine :  20  getting meaning for word :  above
+Goroutine :  21  sending result to the client :  &{{0xc420cc8100}}
+Goroutine :  22  handling connection for word :  ever
+
+Goroutine :  23  getting meaning for word :  ever
+Goroutine :  24  sending result to the client :  &{{0xc420ca4100}}
+Goroutine :  25  handling connection for word :  red
+
+Goroutine :  26  getting meaning for word :  red
+Goroutine :  27  sending result to the client :  &{{0xc420c8c400}}
+Goroutine :  28  handling connection for word :  list
+
+Goroutine :  29  getting meaning for word :  list
+Goroutine :  30  sending result to the client :  &{{0xc420c8c480}}
+Goroutine :  31  handling connection for word :  though
+
+Goroutine :  32  getting meaning for word :  though
+Goroutine :  33  sending result to the client :  &{{0xc420cc8180}}
+Goroutine :  34  handling connection for word :  feel
+
+Goroutine :  35  getting meaning for word :  feel
+Goroutine :  36  sending result to the client :  &{{0xc420c8c500}}
+Goroutine :  37  handling connection for word :  talk
+
+Goroutine :  38  getting meaning for word :  talk
+Goroutine :  39  sending result to the client :  &{{0xc420cc8200}}
+Goroutine :  40  handling connection for word :  bird
+
+Goroutine :  41  getting meaning for word :  bird
+Goroutine :  42  sending result to the client :  &{{0xc420cc8280}}
+Goroutine :  43  handling connection for word :  soon
+
+Goroutine :  44  getting meaning for word :  soon
+Goroutine :  45  sending result to the client :  &{{0xc420ca4180}}
+Goroutine :  46  handling connection for word :  body
+
+Goroutine :  47  getting meaning for word :  body
+Goroutine :  48  sending result to the client :  &{{0xc420ca4200}}
+Goroutine :  49  handling connection for word :  dog
+
+Goroutine :  50  getting meaning for word :  dog
+Goroutine :  51  sending result to the client :  &{{0xc420ca4280}}
+Goroutine :  52  handling connection for word :  family
+
+Goroutine :  53  getting meaning for word :  family
+Goroutine :  54  sending result to the client :  &{{0xc420c8c580}}
+Goroutine :  55  handling connection for word :  direct
+
+Goroutine :  56  getting meaning for word :  direct
+Goroutine :  57  sending result to the client :  &{{0xc420c8c600}}
+Goroutine :  58  handling connection for word :  pose
+
+Goroutine :  59  getting meaning for word :  pose
+Goroutine :  60  sending result to the client :  &{{0xc420ca4300}}
+Goroutine :  61  handling connection for word :  leave
+
+Goroutine :  62  getting meaning for word :  leave
+Goroutine :  63  sending result to the client :  &{{0xc420c8c680}}
+Goroutine :  64  handling connection for word :  song
+
+Goroutine :  65  getting meaning for word :  song
+Goroutine :  66  sending result to the client :  &{{0xc420ca4380}}
+Goroutine :  67  handling connection for word :  measure
+
+Goroutine :  68  getting meaning for word :  measure
+Goroutine :  69  sending result to the client :  &{{0xc420cc8300}}
+Goroutine :  70  handling connection for word :  door
+
+Goroutine :  71  getting meaning for word :  door
+Goroutine :  72  sending result to the client :  &{{0xc420ca4400}}
+Goroutine :  73  handling connection for word :  product
+
+Goroutine :  74  getting meaning for word :  product
+Goroutine :  75  sending result to the client :  &{{0xc420cc8380}}
+Goroutine :  76  handling connection for word :  black
+
+Goroutine :  77  getting meaning for word :  black
+Goroutine :  78  sending result to the client :  &{{0xc420ca4480}}
+Goroutine :  79  handling connection for word :  short
+
+Goroutine :  80  getting meaning for word :  short
+Goroutine :  81  sending result to the client :  &{{0xc420c8c700}}
+Goroutine :  82  handling connection for word :  numeral
+
+Goroutine :  83  getting meaning for word :  numeral
+Goroutine :  84  sending result to the client :  &{{0xc420ca4500}}
+Goroutine :  85  handling connection for word :  class
+
+Goroutine :  86  getting meaning for word :  class
+Goroutine :  87  sending result to the client :  &{{0xc420ca4580}}
+Goroutine :  88  handling connection for word :  wind
+
+Goroutine :  89  getting meaning for word :  wind
+Goroutine :  90  sending result to the client :  &{{0xc420ca4600}}
+Goroutine :  91  handling connection for word :  question
+
+Goroutine :  92  getting meaning for word :  question
+Goroutine :  93  sending result to the client :  &{{0xc420c8c780}}
+Goroutine :  94  handling connection for word :  happen
+
+Goroutine :  95  getting meaning for word :  happen
+Goroutine :  96  sending result to the client :  &{{0xc420c8c800}}
+Goroutine :  97  handling connection for word :  complete
+
+Goroutine :  98  getting meaning for word :  complete
+Goroutine :  99  sending result to the client :  &{{0xc420cc8400}}
+Goroutine :  100  handling connection for word :  ship
+
+Goroutine :  101  getting meaning for word :  ship
+Goroutine :  102  sending result to the client :  &{{0xc420c8c880}}
+Goroutine :  103  handling connection for word :  area
+
+Goroutine :  104  getting meaning for word :  area
+Goroutine :  105  sending result to the client :  &{{0xc420ca4680}}
+Goroutine :  106  handling connection for word :  half
+
+Goroutine :  107  getting meaning for word :  half
+Goroutine :  108  sending result to the client :  &{{0xc420c8c900}}
+Goroutine :  109  handling connection for word :  rock
+
+Goroutine :  110  getting meaning for word :  rock
+Goroutine :  111  sending result to the client :  &{{0xc420ca4700}}
+Goroutine :  112  handling connection for word :  order
+
+Goroutine :  113  getting meaning for word :  order
+Goroutine :  114  sending result to the client :  &{{0xc420c8c980}}
+Goroutine :  115  handling connection for word :  fire
+
+Goroutine :  116  getting meaning for word :  fire
+Goroutine :  117  sending result to the client :  &{{0xc420c8ca00}}
+Goroutine :  118  handling connection for word :  south
+
+Goroutine :  119  getting meaning for word :  south
+Goroutine :  120  sending result to the client :  &{{0xc420cc8480}}
+Goroutine :  121  handling connection for word :  problem
+
+Goroutine :  122  getting meaning for word :  problem
+Goroutine :  123  sending result to the client :  &{{0xc420ca4780}}
+Goroutine :  124  handling connection for word :  piece
+
+Goroutine :  125  getting meaning for word :  piece
+Goroutine :  126  sending result to the client :  &{{0xc420c8ca80}}
+Goroutine :  127  handling connection for word :  told
+
+Goroutine :  128  getting meaning for word :  told
+Goroutine :  129  sending result to the client :  &{{0xc420cc8500}}
+Goroutine :  130  handling connection for word :  knew
+
+Goroutine :  131  getting meaning for word :  knew
+Goroutine :  132  sending result to the client :  &{{0xc420ca4800}}
+Goroutine :  133  handling connection for word :  pass
+
+Goroutine :  134  getting meaning for word :  pass
+Goroutine :  135  sending result to the client :  &{{0xc420cc8580}}
+Goroutine :  136  handling connection for word :  since
+
+Goroutine :  137  getting meaning for word :  since
+Goroutine :  138  sending result to the client :  &{{0xc420ca4880}}
+Goroutine :  139  handling connection for word :  top
+
+Goroutine :  140  getting meaning for word :  top
+Goroutine :  141  sending result to the client :  &{{0xc420cc8600}}
+Goroutine :  142  handling connection for word :  whole
+
+Goroutine :  143  getting meaning for word :  whole
+Goroutine :  144  sending result to the client :  &{{0xc420cc8680}}
+Goroutine :  145  handling connection for word :  king
+
+Goroutine :  146  getting meaning for word :  king
+Goroutine :  147  sending result to the client :  &{{0xc420cc8700}}
+Goroutine :  148  handling connection for word :  space
+
+Goroutine :  149  getting meaning for word :  space
+Goroutine :  150  sending result to the client :  &{{0xc420ca4900}}
+Goroutine :  151  handling connection for word :  heard
+
+Goroutine :  152  getting meaning for word :  heard
+Goroutine :  153  sending result to the client :  &{{0xc420c8cb00}}
+Goroutine :  154  handling connection for word :  best
+
+Goroutine :  155  getting meaning for word :  best
+Goroutine :  156  sending result to the client :  &{{0xc420cc8780}}
+Goroutine :  157  handling connection for word :  hour
+
+Goroutine :  158  getting meaning for word :  hour
+Goroutine :  159  sending result to the client :  &{{0xc420ca4980}}
+Goroutine :  160  handling connection for word :  better
+
+Goroutine :  161  getting meaning for word :  better
+Goroutine :  162  sending result to the client :  &{{0xc420cc8800}}
+Goroutine :  163  handling connection for word :  true
+
+Goroutine :  164  getting meaning for word :  true
+Goroutine :  165  sending result to the client :  &{{0xc420ca4a00}}
+Goroutine :  166  handling connection for word :  during
+
+Goroutine :  167  getting meaning for word :  during
+Goroutine :  168  sending result to the client :  &{{0xc420ca4a80}}
+Goroutine :  169  handling connection for word :  hundred
+
+Goroutine :  170  getting meaning for word :  hundred
+Goroutine :  171  sending result to the client :  &{{0xc420cc8880}}
+Goroutine :  172  handling connection for word :  five
+
+Goroutine :  173  getting meaning for word :  five
+Goroutine :  174  sending result to the client :  &{{0xc420ca4b00}}
+Goroutine :  175  handling connection for word :  remember
+
+Goroutine :  176  getting meaning for word :  remember
+Goroutine :  177  sending result to the client :  &{{0xc420ca4b80}}
+Goroutine :  178  handling connection for word :  step
+
+Goroutine :  179  getting meaning for word :  step
+Goroutine :  180  sending result to the client :  &{{0xc420cc8900}}
+Goroutine :  181  handling connection for word :  early
+
+Goroutine :  182  getting meaning for word :  early
+Goroutine :  183  sending result to the client :  &{{0xc420cc8980}}
+Goroutine :  184  handling connection for word :  hold
+
+Goroutine :  185  getting meaning for word :  hold
+Goroutine :  186  sending result to the client :  &{{0xc420c8cb80}}
+Goroutine :  187  handling connection for word :  west
+
+Goroutine :  188  getting meaning for word :  west
+Goroutine :  189  sending result to the client :  &{{0xc420cc8a00}}
+Goroutine :  190  handling connection for word :  ground
+
+Goroutine :  191  getting meaning for word :  ground
+Goroutine :  192  sending result to the client :  &{{0xc420c8cc00}}
+Goroutine :  193  handling connection for word :  interest
+
+Goroutine :  194  getting meaning for word :  interest
+Goroutine :  195  sending result to the client :  &{{0xc420cc8a80}}
+Goroutine :  196  handling connection for word :  reach
+
+Goroutine :  197  getting meaning for word :  reach
+Goroutine :  198  sending result to the client :  &{{0xc420c8cc80}}
+Goroutine :  199  handling connection for word :  fast
+
+Goroutine :  200  getting meaning for word :  fast
+Goroutine :  201  sending result to the client :  &{{0xc420cc8b00}}
+Goroutine :  202  handling connection for word :  verb
+
+Goroutine :  203  getting meaning for word :  verb
+Goroutine :  204  sending result to the client :  &{{0xc420c8cd00}}
+Goroutine :  204  handling connection for word :  sing
+
+Goroutine :  206  getting meaning for word :  sing
+Goroutine :  207  sending result to the client :  &{{0xc420c8cd80}}
+Goroutine :  208  handling connection for word :  listen
+
+Goroutine :  209  getting meaning for word :  listen
+Goroutine :  210  sending result to the client :  &{{0xc420ca4c00}}
+Goroutine :  211  handling connection for word :  six
+
+Goroutine :  212  getting meaning for word :  six
+Goroutine :  213  sending result to the client :  &{{0xc420c8ce00}}
+Goroutine :  214  handling connection for word :  table
+
+Goroutine :  215  getting meaning for word :  table
+Goroutine :  216  sending result to the client :  &{{0xc420cc8b80}}
+Goroutine :  217  handling connection for word :  travel
+
+Goroutine :  218  getting meaning for word :  travel
+Goroutine :  219  sending result to the client :  &{{0xc420c8ce80}}
+Goroutine :  220  handling connection for word :  less
+
+Goroutine :  221  getting meaning for word :  less
+Goroutine :  222  sending result to the client :  &{{0xc420ca4c80}}
+Goroutine :  223  handling connection for word :  morning
+
+Goroutine :  224  getting meaning for word :  morning
+Goroutine :  225  sending result to the client :  &{{0xc420c8cf00}}
+Goroutine :  226  handling connection for word :  ten
+
+Goroutine :  227  getting meaning for word :  ten
+Goroutine :  228  sending result to the client :  &{{0xc420ca4d00}}
+Goroutine :  229  handling connection for word :  simple
+
+Goroutine :  230  getting meaning for word :  simple
+Goroutine :  231  sending result to the client :  &{{0xc420ca4d80}}
+Goroutine :  232  handling connection for word :  several
+
+Goroutine :  233  getting meaning for word :  several
+Goroutine :  234  sending result to the client :  &{{0xc420cc8c00}}
+Goroutine :  235  handling connection for word :  vowel
+
+Goroutine :  236  getting meaning for word :  vowel
+Goroutine :  237  sending result to the client :  &{{0xc420ca4e00}}
+Goroutine :  238  handling connection for word :  toward
+
+Goroutine :  239  getting meaning for word :  toward
+Goroutine :  240  sending result to the client :  &{{0xc420cc8c80}}
+Goroutine :  241  handling connection for word :  war
+
+Goroutine :  242  getting meaning for word :  war
+Goroutine :  243  sending result to the client :  &{{0xc420ca4e80}}
+Goroutine :  244  handling connection for word :  lay
+
+Goroutine :  245  getting meaning for word :  lay
+Goroutine :  246  sending result to the client :  &{{0xc420cc8d00}}
+Goroutine :  247  handling connection for word :  against
+
+Goroutine :  248  getting meaning for word :  against
+Goroutine :  249  sending result to the client :  &{{0xc420ca4f00}}
+Goroutine :  250  handling connection for word :  pattern
+
+Goroutine :  251  getting meaning for word :  pattern
+Goroutine :  252  sending result to the client :  &{{0xc420cc8d80}}
+Goroutine :  253  handling connection for word :  slow
+
+Goroutine :  254  getting meaning for word :  slow
+Goroutine :  255  sending result to the client :  &{{0xc420ca4f80}}
+Goroutine :  256  handling connection for word :  center
+
+Goroutine :  257  getting meaning for word :  center
+Goroutine :  258  sending result to the client :  &{{0xc420ca5000}}
+Goroutine :  259  handling connection for word :  love
+
+Goroutine :  260  getting meaning for word :  love
+Goroutine :  261  sending result to the client :  &{{0xc420ca5080}}
+Goroutine :  262  handling connection for word :  person
+
+Goroutine :  263  getting meaning for word :  person
+Goroutine :  264  sending result to the client :  &{{0xc420cc8e00}}
+Goroutine :  265  handling connection for word :  money
+
+Goroutine :  266  getting meaning for word :  money
+Goroutine :  267  sending result to the client :  &{{0xc420cc8e80}}
+Goroutine :  268  handling connection for word :  serve
+
+Goroutine :  269  getting meaning for word :  serve
+Goroutine :  270  sending result to the client :  &{{0xc420ca5100}}
+Goroutine :  271  handling connection for word :  appear
+
+Goroutine :  272  getting meaning for word :  appear
+Goroutine :  273  sending result to the client :  &{{0xc420c8cf80}}
+Goroutine :  274  handling connection for word :  road
+
+Goroutine :  275  getting meaning for word :  road
+Goroutine :  276  sending result to the client :  &{{0xc420ca5180}}
+Goroutine :  277  handling connection for word :  map
+
+Goroutine :  278  getting meaning for word :  map
+Goroutine :  279  sending result to the client :  &{{0xc420c8d000}}
+Goroutine :  280  handling connection for word :  rain
+
+Goroutine :  281  getting meaning for word :  rain
+Goroutine :  282  sending result to the client :  &{{0xc420cc8f00}}
+Goroutine :  283  handling connection for word :  rule
+
+Goroutine :  284  getting meaning for word :  rule
+Goroutine :  285  sending result to the client :  &{{0xc420c8d080}}
+Goroutine :  286  handling connection for word :  govern
+
+Goroutine :  287  getting meaning for word :  govern
+Goroutine :  288  sending result to the client :  &{{0xc420cc8f80}}
+Goroutine :  289  handling connection for word :  pull
+
+Goroutine :  290  getting meaning for word :  pull
+Goroutine :  291  sending result to the client :  &{{0xc420c8d100}}
+Goroutine :  292  handling connection for word :  cold
+
+Goroutine :  293  getting meaning for word :  cold
+Goroutine :  294  sending result to the client :  &{{0xc420ca5200}}
+Goroutine :  295  handling connection for word :  notice
+
+Goroutine :  296  getting meaning for word :  notice
+Goroutine :  297  sending result to the client :  &{{0xc420ca5280}}
+Goroutine :  298  handling connection for word :  voice
+
+Goroutine :  299  getting meaning for word :  voice
+Goroutine :  300  sending result to the client :  &{{0xc420c8d180}}

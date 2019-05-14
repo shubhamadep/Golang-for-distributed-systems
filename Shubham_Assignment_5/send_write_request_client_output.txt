@@ -1,0 +1,200 @@
+Shubhams-MacBook-Pro:Distributed Systems shubhamadep$ go run tcp_client_add_requests.go
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.
+
+Word added.

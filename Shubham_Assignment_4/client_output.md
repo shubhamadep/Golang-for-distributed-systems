@@ -1,0 +1,196 @@
+Shubhams-MacBook-Pro:Shubham_Assignment_4 shubhamadep$ go run client.go 
+plain : sailing  n. Uncomplicated situation or course of action.
+
+ready : reckoner  n. Book or table listing standard numerical calculations as used esp. In commerce.
+
+enough :  —adj. As much or as many as required (enough apples). —n. Sufficient amount or quantity (we have enough). —adv. 1 adequately (warm enough). 2 fairly (sings well enough). 3 quite (you know well enough what i mean).  have had enough of want no more of; be satiated with or tired of. Sure enough as expected. [old english]
+
+usual :  adj. 1 customary, habitual (the usual time). 2 (absol., prec. By the, my, etc.) Colloq. Person's usual drink etc.  as usual as (or was) usual.  usually adv. [latin: related to *use]
+
+red : tape  n. Excessive bureaucracy or formality, esp. In public business.
+
+girl : scout  n. = *scout n. 4.
+
+above :  —prep. 1 over; on the top of; higher than; over the surface of (head above water; above the din). 2 more than (above twenty people). 3 higher in rank, importance, etc., than. 4 a too great or good for (not above cheating). B beyond the reach of (above my understanding; above suspicion). —adv. 1 at or to a higher point; overhead (the floor above; the sky above). 2 earlier on a page or in a book (as noted above). —adj. Preceding (the above argument). —n. (prec. By the) preceding text (the above shows).  above all most of all, more than anything else. Above oneself conceited, arrogant. [old english: related to *a2]
+
+ever :  adv. 1 at all times; always (ever hopeful; ever after). 2 at any time (have you ever smoked?; nothing ever happens). 3 (used for emphasis) in any way; at all (how ever did you do it?). 4 (in comb.) Constantly (ever-present). 5 (foll. By so, such) colloq. Very; very much (ever so easy; thanks ever so).  did you ever? Colloq. Did you ever hear or see the like? Ever since throughout the period since. [old english]
+
+young : person  n. Law person aged between 14 and 17 years.
+
+list : price  n. Price of something as shown in a published list.
+
+though :  (also tho') —conj. 1 despite the fact that; in spite of being (though it was early we left; though annoyed, i agreed). 2 (introducing a possibility) even if (ask him though he may refuse). 3 and yet; nevertheless. —adv. Colloq. However; all the same. [old norse]
+
+feel :  —v. (past and past part. Felt) 1 a examine or search by touch. B (absol.) Have the sensation of touch (unable to feel). 2 perceive or ascertain by touch (feel the warmth). 3 experience, exhibit, or be affected by (an emotion, conviction, etc.) (felt strongly about it; felt the rebuke). 4 (foll. By that) have an impression (i feel that i am right). 5 consider, think (i feel it useful). 6 seem (air feels chilly). 7 be consciously; consider oneself (i feel happy). 8 (foll. By for, with) have sympathy or pity. 9 (often foll. By up) slang fondle sexually. —n. 1 feeling; testing by touch. 2 sensation characterizing a material, situation, etc. 3 sense of touch.  feel like have a wish or inclination for. Feel up to be ready to face or deal with. Feel one's way proceed cautiously. Get the feel of become accustomed to using. [old english]
+
+talk :  —v. 1 (often foll. By to, with) converse or communicate verbally. 2 have the power of speech. 3 (often foll. By about) a discuss; express; utter (talked cricket; talking nonsense). B (in imper.) Colloq. As an emphatic statement (talk about expense!). 4 use (a language) in speech (talking spanish). 5 (foll. By at) address pompously. 6 (usu. Foll. By into, out of) bring into a specified condition etc. By talking (talked himself hoarse; did you talk them into it?). 7 betray secrets. 8 gossip (people will talk). 9 have influence (money talks). —n. 1 conversation, talking. 2 particular mode of speech (baby-talk). 3 informal address or lecture. 4 a rumour or gossip (talk of a merger). B its theme (the talk was all babies). 5 empty promises; boasting. 6 (often in pl.) Discussions or negotiations.  now you're talking colloq. I like what you say, suggest, etc. Talk back reply defiantly. Talk down to speak condescendingly to. Talk a person down 1 silence by loudness or persistence. 2 bring (a pilot or aircraft) to landing by radio. Talk of 1 discuss or mention. 2 (often foll. By verbal noun) express some intention of (talked of moving to london). Talk out block (a bill in parliament) by prolonging discussion to the time of adjournment. Talk over discuss at length. Talk a person over (or round) gain agreement by talking. Talk shop talk about one's occupation etc. Talk to rebuke, scold.  talker n. [from *tale or *tell]
+
+bird : table  n. Platform on which food for birds is placed.
+
+soon :  adv. 1 in a short time (shall soon know). 2 relatively early (must you go so soon?). 3 readily or willingly (would sooner go; would as soon stay).  as (or so) soon as at the moment that; not later than; as early as (came as soon as i could). Sooner or later at some future time; eventually.  soonish adv. [old english]
+
+body : stocking  n. Woman's undergarment covering the torso.
+
+dog : in the manger  n. Person who stops others using a thing for which he or she has no use.
+
+family : tree  n. Genealogical chart.
+
+direct : tax  n. Tax that one pays directly to the government, esp. On income.
+
+pose :  —v. (-sing) 1 assume a certain attitude of the body, esp. When being photographed or painted. 2 (foll. By as) pretend to be (another person etc.) (posing as a celebrity). 3 behave affectedly to impress others. 4 put forward or present (a question etc.). 5 place (an artist's model etc.) In a certain attitude. —n. 1 attitude of body or mind. 2 affectation, pretence. [latin pauso *pause, confused with latin pono place]
+
+leave : Please check the spelling again.
+song : thrush  n. Common thrush, noted for singing.
+
+measure :  —n. 1 size or quantity found by measuring. 2 system or unit of measuring (liquid measure; 20 measures of wheat). 3 rod, tape, vessel, etc. For measuring. 4 (often foll. By of) degree, extent, or amount (a measure of wit). 5 factor determining evaluation etc. (sales are the measure of popularity). 6 (usu. In pl.) Suitable action to achieve some end. 7 legislative bill, act, etc. 8 prescribed extent or quantity. 9 poetic metre. 10 mineral stratum (coal measures). —v. (-ring) 1 ascertain the extent or quantity of (a thing) by comparison with a known standard. 2 be of a specified size. 3 ascertain the size of (a person) for clothes. 4 estimate (a quality etc.) By some criterion. 5 (often foll. By off) mark (a line etc. Of a given length). 6 (foll. By out) distribute in measured quantities. 7 (foll. By with, against) bring (oneself or one's strength etc.) Into competition with.  beyond measure excessively. For good measure as a finishing touch. In some measure partly. Measure up 1 take the measurements (of). 2 (often foll.
+
+door :  n. 1 a esp. Hinged barrier for closing and opening the entrance to a building, room, cupboard, etc. B this as representing a house etc. (lives two doors away). 2 a entrance or exit; doorway. B means of access.  close (or open) the door to exclude (or create) an opportunity for. [old english]
+
+product :  n. 1 thing or substance produced, esp. By manufacture. 2 result. 3 quantity obtained by multiplying. [latin: related to *produce]
+
+black : widow  n. Venomous spider of which the female devours the male.
+
+short : weight  n. Weight less than it is alleged to be.
+
+numeral :  —n. Symbol or group of symbols denoting a number. —adj. Of or denoting a number. [latin: related to *number]
+
+class :  —n. 1 any set of persons or things grouped together, or graded or differentiated from others esp. By quality (first class; economy class). 2 division or order of society (upper class). 3 colloq. Distinction, high quality. 4 a group of students taught together. B occasion when they meet. C their course of instruction. 5 division of candidates by merit in an examination. 6 biol. Next grouping of organisms below a division or phylum. —v. Assign to a class or category.  in a class of (or on) its (or one's) own unequalled.  classless adj. [latin classis assembly]
+
+wind : instrument  n. Musical instrument sounded by an air-current, esp. The breath.
+
+question : time  n. Period in parliament when mps may question ministers.
+
+happen :  v. 1 occur (by chance or otherwise). 2 (foll. By to + infin.) Have the (good or bad) fortune to (i happened to meet her). 3 (foll. By to) be the (esp. Unwelcome) fate or experience of (what happened to you?). 4 (foll. By on) encounter or discover by chance.  as it happens in fact; in reality. [related to *haphazard]
+
+complete :  —adj. 1 having all its parts; entire. 2 finished. 3 total, in every way. —v. (-ting) 1 finish. 2 make complete. 3 fill in (a form etc.). 4 conclude the sale or purchase of property.  complete with having (as an important feature) (comes complete with instructions).  completely adv. Completeness n. Completion n. [latin: related to *complement]
+
+ship :  —n. 1 large seagoing vessel. 2 us aircraft. 3 spaceship. —v. (-pp-) 1 put, take, or send away in a ship. 2 a take in (water) over a ship's side etc. B lay (oars) at the bottom of a boat. C fix (a rudder etc.) In place. 3 a embark. B (of a sailor) take service on a ship. 4 deliver (goods) to an agent for forwarding.  ship off send away.
+
+area :  n. 1 extent or measure of a surface (over a large area). 2 region (southern area). 3 space for a specific purpose (dining area). 4 scope or range. 5 space in front of the basement of a building. [latin, = vacant space]
+
+half : nelson  see *nelson.
+
+rock : and roll  n. (also rock 'n' roll) popular dance-music originating in the 1950s with a heavy beat and often a blues element.
+
+order : of the day  n. 1 prevailing state of things. 2 principal action, procedure, or programme.
+
+fire : station  n. Headquarters of a fire brigade.
+
+south : sea  n. (also south seas) southern pacific ocean.
+
+problem :  n. 1 doubtful or difficult matter requiring a solution. 2 something hard to understand or accomplish. 3 (attrib.) Causing problems (problem child). 4 puzzle or question for solution; exercise. [greek problema -mat-]
+
+piece :  —n. 1 a (often foll. By of) distinct portion forming part of or broken off from a larger object. B each of the parts of which a set or category is composed (five-piece band). 2 coin. 3 (usu. Short) literary or musical composition; picture; play.
+
+told :  past and past part. Of *tell.
+
+knew :  past of *know.
+
+pass : Please check the spelling again.
+since :  —prep. Throughout or during the period after (has been here since june; happened since yesterday). —conj. 1 during or in the time after (what have you done since we met?). 2 because. —adv. 1 from that time or event until now (has not seen him since). 2 ago (many years since). [old english, = after that]
+
+top : secret  adj. Of the highest secrecy.
+
+whole : number  n. Number without fractions; integer.
+
+king : of birds  n. Eagle.
+
+space : station  n. Artificial satellite as a base for operations in outer space.
+
+heard : Please check the spelling again.
+best : Please check the spelling again.
+hour :  n. 1 twenty-fourth part of a day and night, 60 minutes. 2 time of day, point in time (a late hour; what is the hour?). 3 (in pl. With preceding numerals in form 18.00, 20.30, etc.) This number of hours and minutes past midnight on the 24-hour clock (will assemble at 20.00 hours). 4 a period for a specific purpose (lunch hour; keep regular hours). B (in pl.) Fixed working or open period (office hours; opening hours). 5 short period of time (an idle hour).
+
+better : Please check the spelling again.
+true : north  n. North according to the earth's axis, not magnetic north.
+
+during :  prep. Throughout or at some point in. [latin: related to *durable]
+
+hundred :  adj. & n. (pl. Hundreds or (in sense 1) hundred) (in sing., prec. By a or one) 1 ten times ten. 2 symbol for this (100, c, c). 3 (in sing. Or pl.) Colloq. A large number. 4 (in pl.) The years of a specified century (the seventeen hundreds). 5 hist. Subdivision of a county or shire, having its own court.  hundredfold adj. & adv. Hundredth adj. & n. [old english]
+
+five : o'clock shadow  n. Beard-growth visible in the latter part of the day.
+
+remember :  v. 1 (often foll. By to + infin. Or that + clause) keep in the memory; not forget. 2 (also absol.) Bring back into one's thoughts. 3 think of or acknowledge (a person), esp. In making a gift etc. 4 (foll. By to) convey greetings from (one person) to (another) (remember me to john). [latin: related to *memory]
+
+step :  —n. 1 a complete movement of one leg in walking or running. B distance so covered. 2 unit of movement in dancing. 3 measure taken, esp. One of several in a course of action. 4 surface of a stair, stepladder, etc.; tread. 5 short distance. 6 sound or mark made by a foot in walking etc. 7 manner of walking etc. 8 degree in the scale of promotion or precedence etc. 9 a stepping in unison or to music (esp. In or out of step). B state of conforming (refuses to keep step with the team). 10 (in pl.) (also pair of steps) = *stepladder. —v. (-pp-) 1 lift and set down one's foot or alternate feet in walking. 2 come or go in a specified direction by stepping. 3 make progress in a specified way (stepped into a new job). 4 (foll. By off, out) measure (distance) by stepping. 5 perform (a dance).  mind (or watch) one's step be careful. Step by step gradually; cautiously. Step down resign. Step in 1 enter. 2 intervene. Step on it colloq. Accelerate; hurry up. Step out 1 be active socially. 2 take large steps. Step out of line behave inappropriately or disobediently. Step up increase, intensify. [old english]
+
+early : on  adv. At an early stage.
+
+hold : Please check the spelling again.
+west : side  n. Us western part of manhattan.
+
+ground : swell  n. Heavy sea caused by a distant or past storm or an earthquake.
+
+interest :  —n. 1 a concern; curiosity (have no interest in fishing). B quality exciting curiosity etc. (this book lacks interest). 2 subject, hobby, etc., in which one is concerned. 3 advantage or profit (it is in my interest to go). 4 money paid for the use of money lent. 5 a thing in which one has a stake or concern (business interests). B financial stake (in an undertaking etc.). C legal concern, title, or right (in property). 6 a party or group with a common interest (the brewing interest). B principle or cause with which this is concerned. —v. 1 excite the curiosity or attention of. 2 (usu. Foll. By in) cause (a person) to take a personal interest. 3 (as interested adj.) Having a private interest; not impartial or disinterested. [latin, = it matters]
+
+reach :  —v. 1 (often foll. By out) stretch out, extend. 2 (often foll. By for) stretch out the hand etc.; make a stretch or effort. 3 get as far as. 4 get to or attain. 5 make contact with the hand etc., or by telephone etc. (could not be reached). 6 hand, pass (reach me that book). 7 take with an outstretched hand. 8 naut. Sail with the wind abeam or abaft the beam. —n. 1 extent to which a hand etc. Can be reached out, influence exerted, motion carried out, or mental powers used. 2 act of reaching out. 3 continuous extent, esp. Of river between two bends or of canal between locks. 4 naut. Distance traversed in reaching.  reachable adj. [old english]
+
+fast : worker  n. Colloq. Person who rapidly makes esp. Sexual advances.
+
+verb :  n. Word used to indicate action, a state, or an occurrence (e.g. Hear, be, happen). [latin verbum word]
+
+sing :  —v. (past sang; past part. Sung) 1 utter musical sounds, esp. Words with a set tune. 2 utter or produce by singing. 3 (of the wind, a kettle, etc.) Hum, buzz, or whistle. 4 (of the ears) hear a humming sound. 5 slang turn informer. 6 (foll. By of) literary celebrate in verse. —n. Act or spell of singing.  sing out shout. Sing the praises of praise enthusiastically.  singer n. [old english]
+
+listen :  v. 1 a make an effort to hear something. B attentively hear a person speaking. 2 (foll. By to) a give attention with the ear. B take notice of; heed. 3 (also listen out) (often foll. By for) seek to hear by waiting alertly.  listen in 1 tap a telephonic communication. 2 use a radio receiving set. [old english]
+
+six :  adj. & n. 1 one more than five. 2 symbol for this (6, vi, vi). 3 size etc. Denoted by six. 4 cricket hit scoring six runs. 5 six o'clock.  at sixes and sevens in confusion or disagreement. Knock (or hit) for six colloq. Utterly surprise or overcome. [old english]
+
+table : wine  n. Wine of ordinary quality.
+
+travel : agency  n. Agency that makes the necessary arrangements for travellers.  travel agent n.
+
+less :  —adj. 1 smaller in extent, degree, duration, number, etc. 2 of smaller quantity, not so much (less meat). 3 colloq. Fewer (less biscuits). —adv. To a smaller extent, in a lower degree. —n. Smaller amount, quantity, or number (will take less; for less than £10). —prep. Minus (made £1,000 less tax). [old english]
+
+morning : star  n. Planet, usu. Venus, seen in the east before sunrise.
+
+ten : commandments  n.pl. (prec. By the) rules of conduct given by god to moses (exod. 20:1–17).
+
+simple : interest  n. Interest payable on a capital sum only.
+
+several :  —adj. & pron. More than two but not many; a few. —adj. Formal separate or respective (went their several ways).  severally adv. [latin separ distinct]
+
+vowel :  n. 1 speech-sound made with vibration of the vocal cords but without audible friction. 2 letter(s) representing this, as a, e, i, o, u, aw, ah. [latin: related to *vocal]
+
+toward :  prep. = *towards.
+
+war : of nerves  n. Attempt to wear down an opponent psychologically.
+
+lay : reader  n. Lay person licensed to conduct some religious services.
+
+against :  prep. 1 in opposition to (fight against crime). 2 into collision or in contact with (lean against the wall). 3 to the disadvantage of (my age is against me). 4 in contrast to (against a dark background). 5 in anticipation of (against his coming; against the cold). 6 as a compensating factor to (income against expenditure). 7 in return for (issued against payment of the fee).  against the grain see *grain. Against time see *time. [from *again, with inflectional -s]
+
+pattern :  —n. 1 repeated decorative design on wallpaper, cloth, etc. 2 regular or logical form, order, etc. (behaviour pattern). 3 model, design, or instructions for making something (knitting pattern). 4 excellent example, model (pattern of elegance). 5 wooden or metal shape from which a mould is made for a casting.  6 random combination of shapes or colours. —v. 1 (usu. Foll. By after, on) model (a thing) on a design etc. 2 decorate with a pattern. [from *patron]
+
+slow : motion  n. 1 speed of a film at which actions etc. Appear much slower than usual. 2 simulation of this in real action.
+
+center :  (brit. Centre) —n. 1 middle point. 2 pivot or axis of rotation. 3 a place or buildings forming a central point or a main area for an activity (shopping centre; town centre). B (with a preceding word) equipment for a number of connected functions (music centre). 4 point of concentration or dispersion; nucleus, source. 5 political party or group holding moderate opinions. 6 filling in chocolate etc. 7 sport a middle player in a line in some field games. B kick or hit from the side to the centre of a pitch. 8 (attrib.) Of or at the centre. —v. (-ring) 1 (foll. By in, on, round) have as its main centre. 2 place in the centre. 3 (foll. By in etc.) Concentrate. [greek kentron sharp point]
+
+love : bite  n. Bruise made by a partner's biting etc. During lovemaking.
+
+person :  n. 1 individual human being. 2 living body of a human being (found on my person). 3 gram. Any of three classes of personal pronouns, verb-forms, etc.: the person speaking (first person); the person spoken to (second person); the person spoken of (third person). 4 (in comb.) Used to replace -man in offices open to either sex (salesperson). 5 (in christianity) god as father, son, or holy ghost.  in person physically present. [latin: related to *persona]
+
+money : order  n. Order for payment of a specified sum, issued by a bank or post office.
+
+serve :  —v. (-ving) 1 do a service for (a person, community, etc.). 2 be a servant to. 3 carry out duties (served on six committees). 4 (foll. By in) be employed in (esp. The armed forces) (served in the navy). 5 a be useful to or serviceable for. B meet requirements; perform a function. 6 a go through a due period of (apprenticeship, a prison sentence, etc.). B go through (a due period) of imprisonment etc. 7 present (food) to eat. 8 (in full serve at table) act as a waiter. 9 a attend to (a customer etc.). B (foll. By with) supply with (goods). 10 treat (a person) in a specified way. 11  a (often foll. By on) deliver (a writ etc.). B (foll. By with) deliver a writ etc. To. 12 (also absol.) (in tennis etc.) Deliver (a ball etc.) To begin or resume play. 13 (of an animal) copulate with (a female). —n. = *service n. 16a, b.  serve a person right be a person's deserved punishment etc. Serve up derog. Offer (served up the same old excuses). [latin servio]
+
+appear :  v. 1 become or be visible. 2 seem (appeared unwell). 3 present oneself publicly or formally. 4 be published. [latin appareo]
+
+road : test  —n. Test of a vehicle's roadworthiness. —v. (road-test) test (a vehicle) on the road.
+
+map :  —n. 1 a flat representation of the earth's surface, or part of it. B diagram of a route etc. 2 similar representation of the stars, sky, moon, etc. 3 diagram showing the arrangement or components of a thing. —v. (-pp-) 1 represent on a map. 2 math. Associate each element of (a set) with one element of another set.  map out plan in detail. [latin mappa napkin]
+
+rain : check  n. Esp. Us ticket given for later use when an outdoor event is interrupted or postponed by rain.  take a rain check on reserve the right not to take up (an offer) until convenient.
+
+rule : of thumb  n. Rule based on experience or practice rather than theory.
+
+govern :  v. 1 rule or control with authority; conduct the policy and affairs of. 2 influence or determine (a person or course of action). 3 be a standard or principle for. 4 check or control (esp. Passions). 5 gram. (esp. Of a verb or preposition) have (a noun or pronoun or its case) depending on it. [greek kubernao steer]
+
+pull :  —v. 1 exert force upon (a thing, person, etc.) To move it to oneself or the origin of the force (pulled it nearer). 2 exert a pulling force (engine will not pull). 3 extract (a cork or tooth) by pulling. 4 damage (a muscle etc.) By abnormal strain. 5 a move (a boat) by pulling on the oars. B (of a boat etc.) Be caused to move, esp. In a specified direction. 6 (often foll. By up) proceed with effort (up a hill etc.). 7 (foll. By on) bring out (a weapon) for use against (a person). 8 check the speed of (a horse), esp. To lose a race. 9 attract (custom or support). 10 draw (liquor) from a barrel etc. 11 (foll. By at) tear or pluck at. 12 (often foll. By on, at) inhale or drink deeply; draw or suck (on a pipe etc.). 13 (often foll. By up) remove (a plant) by the root. 14 a cricket strike (the ball) to the leg side. B golf strike (the ball) widely to the left. 15 print (a proof etc.). 16 slang succeed in attracting sexually. —n. 1 act of pulling. 2 force exerted by this. 3 influence; advantage. 4 attraction or attention-getter. 5 deep draught of liquor. 6 prolonged effort, e.g. In going up a hill. 7 handle etc. For applying a pull. 8 printer's rough proof. 9 cricket & golf pulling stroke. 10 suck at a cigarette.  pull about 1 treat roughly. 2 pull from side to side. Pull apart (or to pieces) = take to pieces (see *piece). Pull back (cause to) retreat. Pull down 1 demolish (esp. A building). 2 humiliate. Pull a face distort the features, grimace. Pull a fast one see *fast1. Pull in 1 (of a bus, train, etc.) Arrive to take passengers. 2 (of a vehicle) move to the side of or off the road. 3 colloq. Earn or acquire. 4 colloq. Arrest. Pull a person's leg deceive playfully. Pull off 1 remove by pulling. 2 succeed in achieving or winning. Pull oneself together recover control of oneself. Pull the other one colloq. Expressing disbelief (with ref. To pull a person's leg). Pull out 1 take out by pulling. 2 depart. 3 withdraw from an undertaking. 4 (of a bus, train, etc.) Leave a station, stop, etc. 5 (of a vehicle) move out from the side of the road, or to overtake. Pull over (of a vehicle) pull in. Pull one's punches avoid using one's full force. Pull the plug on put an end to (by withdrawing resources etc.). Pull rank take unfair advantage of one's seniority. Pull round (or through) (cause to) recover from an illness. Pull strings exert (esp. Clandestine) influence. Pull together work in harmony. Pull up 1 (cause to) stop moving. 2 pull out of the ground. 3 reprimand. 4 check oneself. Pull one's weight (often refl.) Do one's fair share of work. [old english]
+
+cold : war  n. Hostility between nations without actual fighting.
+
+notice :  —n. 1 attention, observation (escaped my notice). 2 displayed sheet etc. Bearing an announcement. 3 a intimation or warning, esp. A formal one. B formal announcement or declaration of intention to end an agreement or leave employment at a specified time. 4 short published review of a new play, book, etc. —v. (-cing) (often foll. By that, how, etc.) Perceive, observe.  at short (or a moment's) notice with little warning. Take notice (or no notice) show signs (or no signs) of interest. Take notice of 1 observe. 2 act upon. [latin notus known]
+
+voice : in the wilderness  n. Unheeded advocate of reform.
+
+
